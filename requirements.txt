@@ -4,3 +4,5 @@ streamlit
 pillow
 xlrd
 openpyxl
+rapidfuzz
+indic-transliteration
